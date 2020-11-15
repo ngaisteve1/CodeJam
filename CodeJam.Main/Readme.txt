@@ -3,6 +3,7 @@
 
 What's new in 3.3.0
 -------------------
+* Add .NET 5.0 target
 * Add more string Invariant and Ordinal methods.
 * Add value annotations.
 * Add WaitTaskAsync extension method
